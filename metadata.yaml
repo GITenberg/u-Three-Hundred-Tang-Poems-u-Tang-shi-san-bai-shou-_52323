@@ -1,0 +1,32 @@
+_repo: u-Three-Hundred-Tang-Poems-u-Tang-shi-san-bai-shou-_52323
+_version: 0.0.1
+alternative_title:
+- Three Hundred Tang Poems
+- Tang shi san bai shou
+contributor:
+  compiler:
+    agent_name: Hengtangtuishi
+    aliases:
+    - 孫洙
+    - 孙洙
+    - 蘅塘退士
+    - Sun, Zhu
+    birthdate: 1711
+    deathdate: 1778
+    gutenberg_agent_id: '46791'
+    url: http://www.gutenberg.org/2009/agents/46791
+description: ''
+gutenberg_issued: '2016-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52323'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese poetry -- Tang dynasty, 618-907'
+- !lcc 'PL'
+- GITenberg
+title: 唐诗三百首
+url: http://www.gutenberg.org/ebooks/52323
