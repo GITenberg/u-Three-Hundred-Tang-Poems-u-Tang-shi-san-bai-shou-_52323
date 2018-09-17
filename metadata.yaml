@@ -15,7 +15,12 @@ contributor:
     deathdate: 1778
     gutenberg_agent_id: '46791'
     url: http://www.gutenberg.org/2009/agents/46791
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52323#u-Three-Hundred-Tang-Poems-u-Tang-shi-san-bai-shou-
 gutenberg_issued: '2016-06-13'
 gutenberg_type: Text
 identifiers:
